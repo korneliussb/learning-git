@@ -19,5 +19,7 @@ get('abuot', function () {
     return 'About Page';
 });
 
-
+get('reporting', function () {
+    return 'Reporting feature';
+});
 // whatever logic to add reporting to you,
