@@ -22,4 +22,10 @@ get('about', function () {
 get('reporting', function () {
     return 'Reporting feature';
 });
+<<<<<<< Updated upstream
 // whatever logic to add reporting to you,
+=======
+
+Route::resource('reports', 'ReportsController');
+// whatever logic to add reporting to you, and
+>>>>>>> Stashed changes
