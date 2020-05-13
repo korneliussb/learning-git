@@ -84,7 +84,9 @@
 
         <div class="content">
             <div class="title m-b-md">
+
                 Laravel 6
+
             </div>
 
             <div class="links">
